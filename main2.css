@@ -1,0 +1,113 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+/*-----------------
+	univ
+------------------*/
+
+*{
+	color:#000;
+	text-decoration:none;
+	font-size:14px;
+	font-style:normal;
+	font-weight:normal;
+	margin:0;
+	padding:0;
+	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+
+body{
+	width:1024px;
+	margin:auto;
+	background-image:url('img/haikeiii1.png');
+	background-repeat:no-repeat;
+	background-position:center;
+	background-attachment:fixed;
+	
+}
+li{
+	list-style:none;
+}
+
+
+/*-----------------
+		まとめ設定
+------------------*/
+
+
+h1{
+	font-size:36px;
+	color:#00FFCC;
+	font-family:HGP教科書体;
+	padding-top:10px;
+	padding-left:50px;
+	font-weight:600;
+	
+}
+
+h2{
+	margin-top:0px;
+	font-size:15px;
+	padding:0.2em;
+	font-weight:900;
+	background-color:#F09;
+	color:#EEE;
+}
+h3{
+	font-size:12px;
+	margin-top:5px;
+	margin-bottom:5px;
+	padding:0.3em;
+	border-bottom:2px #0CC double;
+	border-top:2px #0CC double;	
+}
+#a1{
+color:#FF0066;
+
+}
+#head{
+width:1024px;
+margin-bottom:20px;	
+}
+
+#left{
+width:700px;
+float:left;	
+margin-bottom:20px;
+}
+
+.menu{
+font-size:30px;
+background-color:aqua;
+	
+}
+.menu a{
+font-size:30px;
+	
+}
+.menu2 a{
+margin:20px;	
+}
+
+#right{
+width:310px;
+float:left;
+margin-bottom:20px;	
+}
+#foot{
+width:1024px;
+clear:left;	
+}
+
+
+
+address{
+padding-left:9px;
+	font-size:18px;
+	background-color:#00CC99;
+	font-weight:900;
+	font-family:"Times New Roman", Times, serif;
+	color:navy;
+}
+
