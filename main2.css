@@ -116,3 +116,20 @@ padding-left:9px;
 	font-size: 23px;
 	text-align: center;
 }
+
+/* プロフィール画像のとこ */
+
+.profile_pic {
+	float: left !important;
+	padding-top: 15px;
+	width: 177px;
+	margin-left: 20px;
+}
+
+.profile_main_txt {
+	width: 478px;
+	margin-left: 0px;
+	float: right;
+	margin-top: 13px;
+	padding-left: 0px;
+}
